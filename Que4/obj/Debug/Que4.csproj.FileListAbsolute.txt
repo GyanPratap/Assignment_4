@@ -1,0 +1,7 @@
+C:\Users\hp\OneDrive\Desktop\Que4\bin\Debug\Que4.exe.config
+C:\Users\hp\OneDrive\Desktop\Que4\bin\Debug\Que4.exe
+C:\Users\hp\OneDrive\Desktop\Que4\bin\Debug\Que4.pdb
+C:\Users\hp\OneDrive\Desktop\Que4\obj\Debug\Que4.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Que4\obj\Debug\Que4.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Que4\obj\Debug\Que4.exe
+C:\Users\hp\OneDrive\Desktop\Que4\obj\Debug\Que4.pdb

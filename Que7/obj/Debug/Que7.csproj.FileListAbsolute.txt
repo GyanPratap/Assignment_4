@@ -1,0 +1,7 @@
+C:\Users\hp\OneDrive\Desktop\Que7\bin\Debug\Que7.exe.config
+C:\Users\hp\OneDrive\Desktop\Que7\bin\Debug\Que7.exe
+C:\Users\hp\OneDrive\Desktop\Que7\bin\Debug\Que7.pdb
+C:\Users\hp\OneDrive\Desktop\Que7\obj\Debug\Que7.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\Que7\obj\Debug\Que7.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\Que7\obj\Debug\Que7.exe
+C:\Users\hp\OneDrive\Desktop\Que7\obj\Debug\Que7.pdb
